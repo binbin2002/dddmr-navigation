@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation/ament_cmake_core/champ_navigationConfig-version.cmake

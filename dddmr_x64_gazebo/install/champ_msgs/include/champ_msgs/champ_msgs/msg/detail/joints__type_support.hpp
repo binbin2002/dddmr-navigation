@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_generator_cpp/champ_msgs/msg/detail/joints__type_support.hpp

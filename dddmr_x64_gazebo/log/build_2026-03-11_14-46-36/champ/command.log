@@ -1,0 +1,6 @@
+Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ
+Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ
+Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ -- -j24 -l24
+Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ -- -j24 -l24
+Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ
+Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ

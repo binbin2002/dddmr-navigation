@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_generator_c/champ_msgs/msg/detail/contacts_stamped__type_support.h

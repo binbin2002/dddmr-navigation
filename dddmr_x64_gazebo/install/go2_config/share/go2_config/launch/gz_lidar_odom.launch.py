@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/robots/configs/go2_config/launch/gz_lidar_odom.launch.py

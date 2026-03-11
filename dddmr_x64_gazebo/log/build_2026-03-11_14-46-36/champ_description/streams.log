@@ -1,0 +1,70 @@
+[0.011s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description
+[0.042s] -- The C compiler identification is GNU 11.4.0
+[0.074s] -- The CXX compiler identification is GNU 11.4.0
+[0.077s] -- Detecting C compiler ABI info
+[0.118s] -- Detecting C compiler ABI info - done
+[0.123s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.123s] -- Detecting C compile features
+[0.123s] -- Detecting C compile features - done
+[0.125s] -- Detecting CXX compiler ABI info
+[0.169s] -- Detecting CXX compiler ABI info - done
+[0.173s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.173s] -- Detecting CXX compile features
+[0.173s] -- Detecting CXX compile features - done
+[0.174s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.264s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.298s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.314s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.356s] -- Configuring done
+[0.357s] -- Generating done
+[0.358s] -- Build files have been written to: /home/yang/dddmr/dddmr_x64_gazebo/build/champ_description
+[0.361s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ_description -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description
+[0.362s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_description -- -j24 -l24
+[0.386s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_description -- -j24 -l24
+[0.387s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ_description
+[0.392s] -- Install configuration: "Release"
+[0.392s] -- Execute custom install script
+[0.393s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/launch/description.launch
+[0.400s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/launch/description.launch.py
+[0.406s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/launch/view_urdf.launch
+[0.412s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/rviz/urdf_viewer.rviz
+[0.419s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/arm/base.stl
+[0.423s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/arm/lower_arm.stl
+[0.427s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/arm/upper_arm.stl
+[0.432s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/arm/wrist1.stl
+[0.437s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/arm/wrist2.stl
+[0.443s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/asus_camera_simple.dae
+[0.448s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/base.stl
+[0.452s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/base_simple.stl
+[0.457s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/hip.stl
+[0.463s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/hokuyo_utm_30lx.dae
+[0.470s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/lower_leg.stl
+[0.476s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/lower_leg_simple.stl
+[0.480s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/upper_leg.stl
+[0.484s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/meshes/upper_leg_simple.stl
+[0.490s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/accessories.urdf.xacro
+[0.497s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/asus_camera.urdf.xacro
+[0.502s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/champ.urdf
+[0.507s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/champ.urdf.xacro
+[0.512s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/champ_arm.urdf
+[0.518s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/champ_velodyne.urdf
+[0.521s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/gen_urdf
+[0.527s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/hokuyo_utm30lx.urdf.xacro
+[0.532s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/leg.urdf.xacro
+[0.538s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/urdf/properties.urdf.xacro
+[0.542s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/ament_index/resource_index/package_run_dependencies/champ_description
+[0.547s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/ament_index/resource_index/parent_prefix_path/champ_description
+[0.552s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/environment/ament_prefix_path.sh
+[0.559s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/environment/ament_prefix_path.dsv
+[0.564s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/environment/path.sh
+[0.569s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/environment/path.dsv
+[0.573s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/local_setup.bash
+[0.578s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/local_setup.sh
+[0.583s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/local_setup.zsh
+[0.587s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/local_setup.dsv
+[0.591s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/package.dsv
+[0.596s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/ament_index/resource_index/packages/champ_description
+[0.601s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/cmake/champ_descriptionConfig.cmake
+[0.607s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/cmake/champ_descriptionConfig-version.cmake
+[0.611s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_description/share/champ_description/package.xml
+[0.618s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ_description

@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ/include/champ/quadruped_base/quadruped_base.h

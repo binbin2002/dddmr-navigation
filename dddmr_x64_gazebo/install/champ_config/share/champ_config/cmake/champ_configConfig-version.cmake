@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_config/ament_cmake_core/champ_configConfig-version.cmake

@@ -1,0 +1,78 @@
+[0.007s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/lib:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/bin:${PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ_bringup -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup
+[0.043s] -- The C compiler identification is GNU 11.4.0
+[0.073s] -- The CXX compiler identification is GNU 11.4.0
+[0.077s] -- Detecting C compiler ABI info
+[0.120s] -- Detecting C compiler ABI info - done
+[0.124s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.124s] -- Detecting C compile features
+[0.124s] -- Detecting C compile features - done
+[0.126s] -- Detecting CXX compiler ABI info
+[0.180s] -- Detecting CXX compiler ABI info - done
+[0.185s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.185s] -- Detecting CXX compile features
+[0.185s] -- Detecting CXX compile features - done
+[0.186s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.274s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.307s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.404s] -- Configuring done
+[0.405s] -- Generating done
+[0.406s] -- Build files have been written to: /home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup
+[0.409s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup' returned '0': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/lib:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/bin:${PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ_bringup -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup
+[0.409s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/lib:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/bin:${PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup -- -j24 -l24
+[0.468s] Built target ament_cmake_python_symlink_champ_bringup
+[0.601s] running egg_info
+[0.602s] creating champ_bringup.egg-info
+[0.602s] writing champ_bringup.egg-info/PKG-INFO
+[0.602s] writing dependency_links to champ_bringup.egg-info/dependency_links.txt
+[0.602s] writing top-level names to champ_bringup.egg-info/top_level.txt
+[0.602s] writing manifest file 'champ_bringup.egg-info/SOURCES.txt'
+[0.603s] reading manifest file 'champ_bringup.egg-info/SOURCES.txt'
+[0.603s] writing manifest file 'champ_bringup.egg-info/SOURCES.txt'
+[0.618s] Built target ament_cmake_python_build_champ_bringup_egg
+[0.625s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup' returned '0': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/lib:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/bin:${PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup -- -j24 -l24
+[0.626s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/lib:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/bin:${PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup
+[0.629s] -- Install configuration: "Release"
+[0.629s] -- Execute custom install script
+[0.629s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/bringup.launch
+[0.635s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/bringup.launch.py
+[0.640s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/d435.launch
+[0.648s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/hokuyo.launch
+[0.655s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/kinect.launch
+[0.664s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/lms1xx.launch
+[0.670s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/realsense.launch
+[0.676s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/rplidar.launch
+[0.686s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/sim.launch
+[0.699s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/sweep.launch
+[0.707s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/xv11.launch
+[0.723s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/laser/ydlidar.launch
+[0.737s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/include/velocity_smoother.launch
+[0.745s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/joints_gui.launch
+[0.749s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/launch/joints_gui.launch.py
+[0.755s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/environment/pythonpath.sh
+[0.760s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/environment/pythonpath.dsv
+[0.766s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup-0.1.0-py3.10.egg-info/PKG-INFO
+[0.770s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup-0.1.0-py3.10.egg-info/SOURCES.txt
+[0.776s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup-0.1.0-py3.10.egg-info/dependency_links.txt
+[0.780s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup-0.1.0-py3.10.egg-info/top_level.txt
+[0.785s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup/__init__.py
+[0.791s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup/joint_calibrator_relay.py
+[0.795s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/lib/champ_bringup/joint_calibrator_relay.py
+[0.801s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/ament_index/resource_index/package_run_dependencies/champ_bringup
+[0.806s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/ament_index/resource_index/parent_prefix_path/champ_bringup
+[0.812s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/environment/ament_prefix_path.sh
+[0.816s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/environment/ament_prefix_path.dsv
+[0.820s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/environment/path.sh
+[0.826s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/environment/path.dsv
+[0.831s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/local_setup.bash
+[0.836s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/local_setup.sh
+[0.841s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/local_setup.zsh
+[0.846s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/local_setup.dsv
+[0.855s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/package.dsv
+[0.864s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/ament_index/resource_index/packages/champ_bringup
+[0.873s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/cmake/champ_bringupConfig.cmake
+[0.879s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/cmake/champ_bringupConfig-version.cmake
+[0.883s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/share/champ_bringup/package.xml
+[0.905s] Listing '/home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup'...
+[0.906s] Compiling '/home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup/__init__.py'...
+[0.906s] Compiling '/home/yang/dddmr/dddmr_x64_gazebo/install/champ_bringup/local/lib/python3.10/dist-packages/champ_bringup/joint_calibrator_relay.py'...
+[0.910s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup' returned '0': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_description:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/lib:/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_base/bin:${PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup

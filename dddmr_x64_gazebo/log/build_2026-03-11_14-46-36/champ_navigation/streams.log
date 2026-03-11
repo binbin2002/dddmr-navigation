@@ -1,0 +1,46 @@
+[0.010s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ_navigation -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation
+[0.043s] -- The C compiler identification is GNU 11.4.0
+[0.075s] -- The CXX compiler identification is GNU 11.4.0
+[0.079s] -- Detecting C compiler ABI info
+[0.119s] -- Detecting C compiler ABI info - done
+[0.123s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.123s] -- Detecting C compile features
+[0.123s] -- Detecting C compile features - done
+[0.125s] -- Detecting CXX compiler ABI info
+[0.166s] -- Detecting CXX compiler ABI info - done
+[0.172s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.172s] -- Detecting CXX compile features
+[0.172s] -- Detecting CXX compile features - done
+[0.173s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.271s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.317s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.367s] -- Configuring done
+[0.368s] -- Generating done
+[0.369s] -- Build files have been written to: /home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation
+[0.372s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/champ/champ_navigation -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation
+[0.373s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation -- -j24 -l24
+[0.396s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation -- -j24 -l24
+[0.397s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation
+[0.404s] -- Install configuration: "Release"
+[0.404s] -- Execute custom install script
+[0.404s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/launch/navigate.launch.py
+[0.410s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/launch/slam.launch.py
+[0.416s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/rviz/navigation.rviz
+[0.422s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/rviz/navigation_minimal.rviz
+[0.428s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/rviz/slam.rviz
+[0.432s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/ament_index/resource_index/package_run_dependencies/champ_navigation
+[0.437s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/ament_index/resource_index/parent_prefix_path/champ_navigation
+[0.442s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.sh
+[0.447s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/environment/ament_prefix_path.dsv
+[0.453s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/environment/path.sh
+[0.458s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/environment/path.dsv
+[0.462s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/local_setup.bash
+[0.468s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/local_setup.sh
+[0.474s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/local_setup.zsh
+[0.478s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/local_setup.dsv
+[0.483s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/package.dsv
+[0.487s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/ament_index/resource_index/packages/champ_navigation
+[0.492s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig.cmake
+[0.496s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/cmake/champ_navigationConfig-version.cmake
+[0.503s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/champ_navigation/share/champ_navigation/package.xml
+[0.511s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/champ_navigation

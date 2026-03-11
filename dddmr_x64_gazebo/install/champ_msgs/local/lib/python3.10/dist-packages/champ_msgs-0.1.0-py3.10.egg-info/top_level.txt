@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/ament_cmake_python/champ_msgs/champ_msgs.egg-info/top_level.txt

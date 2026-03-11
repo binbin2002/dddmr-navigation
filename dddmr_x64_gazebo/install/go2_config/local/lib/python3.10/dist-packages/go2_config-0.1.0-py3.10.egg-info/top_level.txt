@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/ament_cmake_python/go2_config/go2_config.egg-info/top_level.txt

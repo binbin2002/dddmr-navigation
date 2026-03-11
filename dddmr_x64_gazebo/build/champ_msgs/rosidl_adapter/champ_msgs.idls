@@ -1,0 +1,9 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Velocities.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/PID.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Imu.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Point.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/PointArray.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Joints.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Contacts.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/ContactsStamped.idl
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_adapter/champ_msgs:msg/Pose.idl

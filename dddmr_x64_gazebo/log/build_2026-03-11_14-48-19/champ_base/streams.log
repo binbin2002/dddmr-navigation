@@ -1,0 +1,11 @@
+[0.006s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/champ_base': AMENT_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs:/home/yang/dddmr/dddmr_x64_gazebo/install/champ:/opt/ros/humble LD_LIBRARY_PATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yang/dddmr/dddmr_x64_gazebo/install/champ_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/champ_base -- -j24 -l24
+[0.038s] [  8%] [32mBuilding CXX object CMakeFiles/quadruped_controller.dir/src/quadruped_controller.cpp.o[0m
+[0.039s] [ 16%] [32mBuilding CXX object CMakeFiles/message_relay.dir/src/message_relay.cpp.o[0m
+[0.039s] [ 25%] [32mBuilding CXX object CMakeFiles/state_estimation.dir/src/state_estimation.cpp.o[0m
+[6.427s] gmake[2]: *** [CMakeFiles/message_relay.dir/build.make:76: CMakeFiles/message_relay.dir/src/message_relay.cpp.o] 中断
+[6.427s] gmake[2]: *** [CMakeFiles/quadruped_controller.dir/build.make:76: CMakeFiles/quadruped_controller.dir/src/quadruped_controller.cpp.o] 中断
+[6.427s] gmake[2]: *** [CMakeFiles/state_estimation.dir/build.make:76: CMakeFiles/state_estimation.dir/src/state_estimation.cpp.o] 中断
+[6.427s] gmake[1]: *** [CMakeFiles/Makefile2:199: CMakeFiles/message_relay.dir/all] 中断
+[6.427s] gmake[1]: *** [CMakeFiles/Makefile2:147: CMakeFiles/quadruped_controller.dir/all] 中断
+[6.427s] gmake[1]: *** [CMakeFiles/Makefile2:251: CMakeFiles/state_estimation.dir/all] 中断
+[6.427s] gmake: *** [Makefile:146: all] 中断

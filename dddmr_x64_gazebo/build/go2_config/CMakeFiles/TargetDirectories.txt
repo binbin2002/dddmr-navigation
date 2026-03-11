@@ -1,0 +1,11 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/uninstall.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/go2_config_uninstall.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/ament_cmake_python_symlink_go2_config.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/ament_cmake_python_build_go2_config_egg.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/test.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/edit_cache.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/rebuild_cache.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/list_install_components.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/install.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/install/local.dir
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config/CMakeFiles/install/strip.dir

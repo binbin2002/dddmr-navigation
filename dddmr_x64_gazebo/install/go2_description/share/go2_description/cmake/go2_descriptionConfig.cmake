@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/go2_description/ament_cmake_core/go2_descriptionConfig.cmake

@@ -1,0 +1,78 @@
+[0.009s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/robots/configs/go2_config -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/go2_config
+[0.043s] -- The C compiler identification is GNU 11.4.0
+[0.080s] -- The CXX compiler identification is GNU 11.4.0
+[0.085s] -- Detecting C compiler ABI info
+[0.132s] -- Detecting C compiler ABI info - done
+[0.138s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.139s] -- Detecting C compile features
+[0.139s] -- Detecting C compile features - done
+[0.142s] -- Detecting CXX compiler ABI info
+[0.188s] -- Detecting CXX compiler ABI info - done
+[0.194s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.195s] -- Detecting CXX compile features
+[0.195s] -- Detecting CXX compile features - done
+[0.196s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.293s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.328s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.430s] -- Configuring done
+[0.434s] -- Generating done
+[0.435s] -- Build files have been written to: /home/yang/dddmr/dddmr_x64_gazebo/build/go2_config
+[0.439s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yang/dddmr/dddmr_x64_gazebo/src/gz_quadbot/robots/configs/go2_config -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yang/dddmr/dddmr_x64_gazebo/install/go2_config
+[0.441s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/go2_config -- -j24 -l24
+[0.471s] Built target ament_cmake_python_symlink_go2_config
+[0.580s] running egg_info
+[0.580s] creating go2_config.egg-info
+[0.580s] writing go2_config.egg-info/PKG-INFO
+[0.581s] writing dependency_links to go2_config.egg-info/dependency_links.txt
+[0.581s] writing top-level names to go2_config.egg-info/top_level.txt
+[0.581s] writing manifest file 'go2_config.egg-info/SOURCES.txt'
+[0.582s] reading manifest file 'go2_config.egg-info/SOURCES.txt'
+[0.583s] writing manifest file 'go2_config.egg-info/SOURCES.txt'
+[0.599s] Built target ament_cmake_python_build_go2_config_egg
+[0.605s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yang/dddmr/dddmr_x64_gazebo/build/go2_config -- -j24 -l24
+[0.606s] Invoking command in '/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/go2_config
+[0.611s] -- Install configuration: "Release"
+[0.611s] -- Execute custom install script
+[0.612s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/launch/gazebo.launch.py
+[0.617s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/launch/gazebo_velodyne.launch.py
+[0.621s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/launch/gz_lidar_odom.launch.py
+[0.627s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/config/autonomy/navigation.yaml
+[0.633s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/config/autonomy/slam.yaml
+[0.637s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/config/gait/gait.yaml
+[0.643s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/config/joints/joints.yaml
+[0.649s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/config/links/links.yaml
+[0.655s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/config/ros_control/ros_control.yaml
+[0.659s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/maps/map.pgm
+[0.665s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/maps/map.yaml
+[0.670s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/maps/playground.pgm
+[0.675s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/maps/playground.yaml
+[0.681s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/worlds/default.world
+[0.685s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/worlds/outdoor.world
+[0.690s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/worlds/playground.world
+[0.694s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/worlds/slope_with_pillar_2.world
+[0.698s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/environment/pythonpath.sh
+[0.702s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/environment/pythonpath.dsv
+[0.709s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config-0.1.0-py3.10.egg-info/PKG-INFO
+[0.715s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config-0.1.0-py3.10.egg-info/SOURCES.txt
+[0.720s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config-0.1.0-py3.10.egg-info/dependency_links.txt
+[0.725s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config-0.1.0-py3.10.egg-info/top_level.txt
+[0.731s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config/__init__.py
+[0.735s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/lib/go2_config/gz_pose_to_ros2.py
+[0.742s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/ament_index/resource_index/package_run_dependencies/go2_config
+[0.748s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/ament_index/resource_index/parent_prefix_path/go2_config
+[0.753s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/environment/ament_prefix_path.sh
+[0.759s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/environment/ament_prefix_path.dsv
+[0.766s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/environment/path.sh
+[0.771s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/environment/path.dsv
+[0.777s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/local_setup.bash
+[0.781s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/local_setup.sh
+[0.786s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/local_setup.zsh
+[0.790s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/local_setup.dsv
+[0.795s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/package.dsv
+[0.800s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/ament_index/resource_index/packages/go2_config
+[0.805s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/cmake/go2_configConfig.cmake
+[0.811s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/cmake/go2_configConfig-version.cmake
+[0.817s] -- Symlinking: /home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/share/go2_config/package.xml
+[0.839s] Listing '/home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config'...
+[0.839s] Compiling '/home/yang/dddmr/dddmr_x64_gazebo/install/go2_config/local/lib/python3.10/dist-packages/go2_config/__init__.py'...
+[0.843s] Invoked command in '/home/yang/dddmr/dddmr_x64_gazebo/build/go2_config' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yang/dddmr/dddmr_x64_gazebo/build/go2_config

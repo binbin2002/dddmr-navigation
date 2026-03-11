@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_bringup/ament_cmake_environment_hooks/local_setup.bash

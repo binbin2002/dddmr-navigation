@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

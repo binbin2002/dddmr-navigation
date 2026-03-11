@@ -1,0 +1,1 @@
+/home/yang/dddmr/dddmr_x64_gazebo/build/champ_msgs/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake
